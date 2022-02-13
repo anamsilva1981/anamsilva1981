@@ -1,4 +1,4 @@
-## Olá sou Ana Maria estudante de FullStack 😍
+## Cursando Análise e Desenvolvimento de Sistemas pelo Mackenzie😍
 
 <div align="center">
   <a href="https://github.com/anamsilva1981/AnaMaria">
