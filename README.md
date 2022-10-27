@@ -1,4 +1,4 @@
-## Cursando Análise e Desenvolvimento de Sistemas pelo Mackenzie😍
+## Cursando Análise e Desenvolvimento de Sistemas😍
 
 <div align="center">
   <a href="https://github.com/anamsilva1981/AnaMaria">
