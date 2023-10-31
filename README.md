@@ -1,4 +1,4 @@
-## Cursando Análise e Desenvolvimento de Sistemas😍
+## Desenvolvedora Full Stack 
 
 <div align="center">
   <a href="https://github.com/anamsilva1981/AnaMaria">
