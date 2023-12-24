@@ -26,7 +26,6 @@
   <a href="https://instagram.com/anamsilva1981" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anamsilva1981/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- https://github.com/anamsilva1981/anamsilva1981/assets/78694472/845a39f9-a35f-4757-af14-1a8655de0b52
  ![Lindinha_programadora](https://github.com/anamsilva1981/anamsilva1981/assets/78694472/78ab4dfb-1ec9-4608-80fc-7fcbf9c731a0)
  
 </div>
