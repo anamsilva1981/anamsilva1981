@@ -1,37 +1,34 @@
-## Desenvolvedora Full Stack 
+# 💻 Ana Maria Silva
 
-<div align="center">
-  <a href="https://github.com/anamsilva1981/AnaMaria">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anamsilva1981&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamsilva1981&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+🎯 **Desenvolvedora Front-End em formação | Focada em Angular, JavaScript e TypeScript**
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Ana-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Ana-Npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="Ana-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Ana-PostGreSql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Ana-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Ana-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg  ">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/anamsilva1981" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anamsilva1981/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+Sou apaixonada por tecnologia e estou construindo minha jornada como desenvolvedora front-end, com foco em criar aplicações web dinâmicas, responsivas e acessíveis. Atualmente, estudo Angular, TypeScript, JavaScript e práticas modernas de desenvolvimento, sempre buscando aprender e evoluir.
 
- ![Lindinha_programadora](https://github.com/anamsilva1981/anamsilva1981/assets/78694472/78ab4dfb-1ec9-4608-80fc-7fcbf9c731a0)
- 
-</div>
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
+🚀 **Habilidades principais:**
+
+- 🔹 Angular 16
+- 🔹 JavaScript | TypeScript
+- 🔹 HTML5 | CSS3
+- 🔹 Node.js
+- 🔹 PostgreSQL | MongoDB
+- 🔹 Testes com Cypress
+
+🧠 **Em aprendizado:**
+
+- 🔸 Microfrontends
+- 🔸 Domain-Driven Design (DDD)
+- 🔸 Arquitetura de aplicações front-end escaláveis
+
+🌱 **Projetos em destaque:**
+
+- 📝 **[Weather App](https://github.com/anamsilva1981/weather-app)** — Aplicação de previsão do tempo usando Angular e OpenWeather API
+- 🏥 **[Sistema de Convênios](https://github.com/anamsilva1981/healthcare-partnerships-app)** — Sistema para cadastro e consulta de convênios médicos
+- 🏡 **[Portfólio Imobiliário](https://github.com/anamsilva1981/real-estate-portfolio-app)** — Plataforma para corretores gerenciarem seus imóveis e clientes
+
+💌 **Conecte-se comigo:**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamsilva1981/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anamsilva1981)
+
+✨ "A jornada é tão importante quanto o destino. Cada linha de código é um passo para me tornar uma desenvolvedora melhor."
+
