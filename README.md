@@ -6,24 +6,21 @@ Sou apaixonada por tecnologia e estou construindo minha jornada como desenvolved
 
 🚀 **Habilidades principais:**
 
-- 🔹 Angular 16
+- 🔹 Angular
+- 🔹 React
 - 🔹 JavaScript | TypeScript
 - 🔹 HTML5 | CSS3
 - 🔹 Node.js
+- 🔹 C # - CSharp
 - 🔹 PostgreSQL | MongoDB
-- 🔹 Testes com Cypress
+- 🔹 Testes integrados com Cypress
+- 🔹 Testes unitários com Nest 
 
 🧠 **Em aprendizado:**
 
 - 🔸 Microfrontends
 - 🔸 Domain-Driven Design (DDD)
 - 🔸 Arquitetura de aplicações front-end escaláveis
-
-🌱 **Projetos em destaque:**
-
-- 📝 **[Weather App](https://github.com/anamsilva1981/weather-app)** — Aplicação de previsão do tempo usando Angular e OpenWeather API
-- 🏥 **[Sistema de Convênios](https://github.com/anamsilva1981/healthcare-partnerships-app)** — Sistema para cadastro e consulta de convênios médicos
-- 🏡 **[Portfólio Imobiliário](https://github.com/anamsilva1981/real-estate-portfolio-app)** — Plataforma para corretores gerenciarem seus imóveis e clientes
 
 💌 **Conecte-se comigo:**
 
